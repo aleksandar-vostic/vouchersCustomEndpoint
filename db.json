@@ -1,8 +1,18 @@
-{
-        "code": "flash8",
-        "validFrom": "2019-03-12",
+[
+    {
+        "code": "flash1",
+        "validFrom": "2019-04-12",
         "validTo": "2019-04-22",
         "codeType": "LJUSHA",
+        "totalValue": 20.0,
+        "remainingValue": 15.0
+    },
+    {
+        "code": "flash2",
+        "validFrom": "2019-04-14",
+        "validTo": "2019-04-21",
+        "codeType": "RIDES",
         "totalValue": 2.0,
-        "remainingValue": 1.0
-}
+        "remainingValue": 2.0
+    }
+]
