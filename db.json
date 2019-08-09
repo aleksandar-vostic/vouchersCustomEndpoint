@@ -1,8 +1,8 @@
 {
-        code = jqwkfg;
-        codeType = UNLOCKS;
-        remainingValue = 3;
-        totalValue = 3;
-        validFrom = "2019-08-08T15:00:00";
-        validTo = "2020-08-07T15:00:00";
+        "code": "flash8",
+        "validFrom": "2019-03-12",
+        "validTo": "2019-04-22",
+        "codeType": "LJUSHA",
+        "totalValue": 2.0,
+        "remainingValue": 1.0
 }
